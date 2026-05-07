@@ -1,5 +1,5 @@
 /*
-This query cleans a raw dataset of global layoffs (2020-2023). 
+This script cleans a raw dataset of global layoffs (2020-2023). 
 The goal is to provide a reliable dataset for later Exploratory Data Analysis (EDA).
 */
 
